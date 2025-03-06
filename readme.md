@@ -1,3 +1,4 @@
+Simulation code for "Optimal Multi-Objective Best Arm Identification with Fixed Confidence"
 ## Requirements
 
 It requires [PyTorch](https://pytorch.org/) to be installed. You can install it using the following command:
